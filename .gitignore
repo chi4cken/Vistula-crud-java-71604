@@ -32,3 +32,9 @@ build/
 
 ### VS Code ###
 .vscode/
+# Intellij IDEA
+.idea/
+# Maven
+target/
+# Vaadin generated files
+src/main/frontend/generated/node_modules/
